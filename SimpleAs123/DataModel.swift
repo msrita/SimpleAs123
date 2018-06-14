@@ -44,35 +44,35 @@ let hurtMild = [ "Bruised","Buffeted","Contused","Distressed","Disturbed","Graze
     "Sore","Squirm","Tender","Wince","Wounded","Writhe","Wronged"]
 
 let hurtMedium = ["Sad","Pain","Ache","Afflicted","Aggrieved","Busted up","Cut","Harmed","Hit","Injured",
-                  "Mauled","Resentful","Stricken","Struck","Shot","Singing the blues","Unhappy","Umbrageous",]
+                  "Mauled","Resentful","Stricken","Struck","Shot","Singing the blues","Unhappy","Umbrageous"]
 
 let hurtSevere = ["Anguish"," Agonized","All torn up","Battered, Bleeding","Burned","Crushed","Damaged", "Disfigured","Lacerated","Mutilated","Misery","Oppressed","Persecuted","Scarred","Suffering", "Tortured","Warped,"]
 
-let angerMild = ["Affronted","Annoyance","Annoyed","Aggravation","Aggravated","Aggrieved","Back up","Bristling","Chafed","Chagrin","Contrary","Crossness","Disgruntled","Displeasure","Dander up","Irked","Irritation","Irritability","Irritated","Indignation","Indignant","Insulted","Hackles rising","Huffy","Miffed","Petulant","Piqued","Put out","Rattled cage","Rubbed the wrong way","Ruffled","Take exception","Take offense","Temerity","Ticked off","Teed off","Tiff","Umbrage","Vexation",]
+let angerMild = ["Affronted","Annoyance","Annoyed","Aggravation","Aggravated","Aggrieved","Back up","Bristling","Chafed","Chagrin","Contrary","Crossness","Disgruntled","Displeasure","Dander up","Irked","Irritation","Irritability","Irritated","Indignation","Indignant","Insulted","Hackles rising","Huffy","Miffed","Petulant","Piqued","Put out","Rattled cage","Rubbed the wrong way","Ruffled","Take exception","Take offense","Temerity","Ticked off","Teed off","Tiff","Umbrage","Vexation"]
 
 let angerMedium = ["Antagonism","Acerbic","Abrasive","Acidulous","Audacious","Bad manners","Caustic","Cheeky","Cockiness","Cutting","Exasperation","Exasperated","Fret","Gall","Hissy fit","Ill temper","Ill humor","Incensed","Inflamed","Impatience","Impudent","Impertinent","Insolence","Irascibility","Ire",
     "Ironic","Maddened","On your nerves","Peeved","Pissed off","Rankled","Rankling","Riled","Sarcastic",
-    "Sardonic","Seeing red","Seething","Slow burn","Smoldering","Sore","Stirred up","Vexed","Vexation",]
+    "Sardonic","Seeing red","Seething","Slow burn","Smoldering","Sore","Stirred up","Vexed","Vexation"]
 
-let angerSevere = ["Acrid","Acrimonious","Animosity","Apoplectic","Ballistic","Belligerent","Biting","Blow up","Blood boiling","Burned up","Cat fits","Conniption","Distemper","Derisive","Enraged","Enmity","Fired up","Furious","Fury","Fuming","Harsh","Hatred","Hostile","Infuriated","Outrage","Mad","Rage","Rabid","Ranting","Raving","Resentment","Resentful","Scathing","Scornful","Sharp","Steamed up","Stewed","Stormy","Temper","Tantrum","Violence","Vitriolic","Wrath",]
+let angerSevere = ["Acrid","Acrimonious","Animosity","Apoplectic","Ballistic","Belligerent","Biting","Blow up","Blood boiling","Burned up","Cat fits","Conniption","Distemper","Derisive","Enraged","Enmity","Fired up","Furious","Fury","Fuming","Harsh","Hatred","Hostile","Infuriated","Outrage","Mad","Rage","Rabid","Ranting","Raving","Resentment","Resentful","Scathing","Scornful","Sharp","Steamed up","Stewed","Stormy","Temper","Tantrum","Violence","Vitriolic","Wrath"]
 
-let guiltshameMild = ["Abashment","Accountability","Affronting","Charge","Chagrin","Concern","Contrition","Contriteness","Covetousness","Delinquency","Deficiency","Demerit","Diddling","Dodge","Embarrassment","Envy","Error","Foible","Frailty","Inexpedience","Impropriety","Feelings of inadequacy","Mistake","Misconduct","Misstep","Negligence","Pangs of conscience","Qualm","Omission","Pride","Ruefulness","Second thoughts","Slip","Whitewash","Woe",]
+let guiltshameMild = ["Abashment","Accountability","Affronting","Charge","Chagrin","Concern","Contrition","Contriteness","Covetousness","Delinquency","Deficiency","Demerit","Diddling","Dodge","Embarrassment","Envy","Error","Foible","Frailty","Inexpedience","Impropriety","Feelings of inadequacy","Mistake","Misconduct","Misstep","Negligence","Pangs of conscience","Qualm","Omission","Pride","Ruefulness","Second thoughts","Slip","Whitewash","Woe"]
 
 let guiltshameMedium = ["Albatross","Badness","Blame","Blameworthiness","Burden","Degraded","Dereliction","Disesteem",
-    "Compunction","Complicity","Guilty conscience","Gluttony","Gyp","Iniquity","Fault","Failing","Flimflam","Loss of face","Malfeasance","Misdemeanor","Peccadillo","Remorse","Remorsefulness","Repentance","Regret",
-        "Self-reproach","Sloth","Smear","Wrong","Wrongdoing",]
+    "Compunction","Complicity","Guilty conscience","Gluttony","Gyp","Iniquity","Fault","Failing","Flim-flam","Loss of face","Malfeasance","Misdemeanor","Peccadillo","Remorse","Remorsefulness","Repentance","Regret",
+        "Self-reproach","Sloth","Smear","Wrong","Wrongdoing"]
 
 let guiltshameSevere = ["Abomination","Bait and switch","Bunk","Conspiracy","Corruption","Culpability","Damnation","Deceit","Depravity","Disgrace",
     "Dishonor","Disrepute","Double-cross","Evil","Feloniousness","Flawed","Fraudulent","Ill repute","Immorality","Infamy","Humiliation","Malicious","Mortification","Plot","Self-loathing",
     "Self-disgust","Self-condemnation","Scandal","Shame","Stigma","Treachery","Trespass","Unrighteousness","Vice",
-    "Violation","Vengeful","Wickedness",]
+    "Violation","Vengeful","Wickedness"]
 
-let depressionMild = ["A state or spell of low spirits","Boredom","Burdened","Disconsolateness","Dejection","Dispiritedness","Distress","Dismalness","Dreary","Discouragement","Disheartenment","Doldrums","Dolefulness","Dullness","Ennui","In the dumps","Forlornness","Foreboding","Gray","Gloomy","Gloominess","Glumness","Memory loss","Moodiness","Moping","Self-pity","Somberness","Tedium",]
+let depressionMild = ["A state or spell of low spirits","Boredom","Burdened","Disconsolateness","Dejection","Dispiritedness","Distress","Dismalness","Dreary","Discouragement","Disheartenment","Doldrums","Dolefulness","Dullness","Ennui","In the dumps","Forlornness","Foreboding","Gray","Gloomy","Gloominess","Glumness","Memory loss","Moodiness","Moping","Self-pity","Somberness","Tedium"]
 
 let depressionMedium = ["A heavy heart","Acting recklessly","Cheerless","Constant upset","Desolation","Despondent","Despondency","Downheartedness","Dolor","Dreariness","Drained",
-    "Empty","Excessive tearfulness","Heartsickness","Haunting regret","Inactivity","Lugubrious","Melancholy","Mournfulness","Morose","Moroseness","Over sleeping/drinking","Suicidal ideation (vs. actual attempt) and rumination","The blues","Thwarted perfectionism",]
+    "Empty","Excessive tearfulness","Heartsickness","Haunting regret","Inactivity","Lugubrious","Melancholy","Mournfulness","Morose","Moroseness","Over sleeping/drinking","Suicidal ideation (vs. actual attempt) and rumination","The blues","Thwarted perfectionism"]
 
-let depressionSevere = ["Abject","Agony","An endless funk","Anguish","Bleak","Chronic sadness","Deep sorrow","Desolation","Despair","Desperation","Extended mourning","Hopelessness","In a blue funk","Joylessness","Miserableness","Misery","Morbidness","No reason to live","Oppression","Prolonged grief","Self-despair","Severe woe","Sleepless","Stigmatized","Unhappiness","Withdrawal","Worthless","Wretchedness","Suicidal with means and a plan go to (800) 273-TALK (Suicide Hotline)",]
+let depressionSevere = ["Abject","Agony","An endless funk","Anguish","Bleak","Chronic sadness","Deep sorrow","Desolation","Despair","Desperation","Extended mourning","Hopelessness","In a blue funk","Joylessness","Miserableness","Misery","Morbidness","No reason to live","Oppression","Prolonged grief","Self-despair","Severe woe","Sleepless","Stigmatized","Unhappiness","Withdrawal","Worthless","Wretchedness","Suicidal with means and a plan go to (800) 273-TALK (Suicide Hotline)"]
 
 
 
